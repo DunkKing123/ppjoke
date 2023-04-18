@@ -1,0 +1,32 @@
+#iml文件
+*.iml
+#gradle文件
+.gradle
+#本地指定sdk的配置文件
+local.properties
+#idea文件
+.idea
+#编译生成文件
+/build
+#captures文件
+/captures
+.externalNativeBuild
+# Built application 文件
+*.apk
+*.ap_
+
+# ART/Dalvik VM 文件
+*.dex
+
+# Java class 文件
+*.class
+
+# Generated 文件夹
+bin/
+gen/
+out/
+
+
+.DS_Store
+# Project exclude paths
+/app/build/
